@@ -43,7 +43,7 @@ const TodoList = () => {
 
   return (
    <>
-   <h1 className='bg-black text-white text-center py-5 text-2xl '>TodoList App</h1>
+   <h1 className='bg-black text-white text-center py-5 text-2xl '>Todo-list App</h1>
 
    <form className='flex justify-center gap-6  mt-9 mb-7' onSubmit={submitHandler}>
     <input 
